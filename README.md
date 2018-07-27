@@ -22,7 +22,7 @@
 
 <!-- generated_getting_started_start -->
 
-Install Jest using [`yarn`](https://yarnpkg.com/en/package/jest):
+Installing Jest using [`yarn`](https://yarnpkg.com/en/package/jest):
 
 ```bash
 yarn add --dev jest
